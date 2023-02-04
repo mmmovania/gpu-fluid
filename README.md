@@ -1,3 +1,7 @@
+This is a Windows compilable fork on VisualStudio2022. Major changes include removal of unistd header and replacing the ftime with a windows compatible one. Other than that, it was realtively easy to port to windows.
+
+//Original Readme starts here ...
+
 ![Fluid](https://raw.github.com/tunabrain/gpu-fluid/master/Header.png)
 
 OpenGL GPU Fluid Solver
